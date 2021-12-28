@@ -22,7 +22,7 @@ function Desc() {
                             <a href="tel:+96176732957"><i class="fas fa-phone"></i> &nbsp;<b>+961 76732957</b></a>
                             <a href="mailto:mhdfaresidilbi@gmail.com"><i class="fas fa-envelope"></i> &nbsp;<b>mhdfaresidilbi@gmail.com</b></a>
                             <a href="https://www.faresidilbi.com"><i class="fas fa-paperclip"></i> &nbsp;<b>faresidilbi.com</b></a>
-                            
+                            <a href={files} target="_blank" class="cv" download="Fares Idilbi - CV"><i class="fas fa-file-export"></i> &nbsp;<b>My CV</b></a>
                     </div>
                 </div>
             </section>

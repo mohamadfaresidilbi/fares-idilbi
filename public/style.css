@@ -314,7 +314,7 @@ h3#skills-title{
         display: block;
         float:left;
         font-size: 14px;;
-        padding: 0 20px;
+        padding: 0 28px;
     }
     .flex-container > div {
         width: 100%;
@@ -362,5 +362,8 @@ h3#skills-title{
         border: 1px solid #ccc;
         border-radius: 4px;
         box-sizing: border-box;
+      }
+      .cv{
+
       }
 }
