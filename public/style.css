@@ -313,8 +313,9 @@ h3#skills-title{
     .social a{
         display: block;
         float:left;
-        font-size: 14px;;
+        font-size: 14px;
         padding: 0 28px;
+        margin-left: -30px;
     }
     .flex-container > div {
         width: 100%;
