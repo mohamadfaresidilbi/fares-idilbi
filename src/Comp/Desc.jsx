@@ -1,5 +1,5 @@
 import React from "react";
-import download from './meee.svg';
+import download from './mee.png';
 import files from './cv.pdf';
 
 
