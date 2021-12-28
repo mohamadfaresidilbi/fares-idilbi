@@ -5,20 +5,20 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 nav{
-    background-color: #1e63be;
+    background-color: #00414e;
     margin:20px 20px;
     border-radius: 17px;
 }
 .my-name{
     font-size:20px;
     margin: 0 20px;
-    color: #E8E8E8;
+    color: #E5E4E2;
     font-weight: 900;
 }
 .my-job{
     font-size:15px;
     margin: 0 20px;
-    color: #E8E8E8;
+    color: #E5E4E2;
     font-weight: 600;
 }
 h1{
@@ -35,14 +35,14 @@ h2{
     margin: 35px 20px 20px 0;
     float:right;
     font-size: 15px;
-    color:#1e63be;
+    color:#00414e;
 }
 .my-title li{
     float:left;
 }
 .my-title li a{
     padding: 0px 10px;
-    color:#E8E8E8;
+    color:#E5E4E2;
 }
 .my-title li a:hover{
     color:white;
@@ -54,15 +54,15 @@ h2{
 .social a{
     padding: 0 20px;
     font-size: 14px;
-    color:#1e63be;
+    color:#00414e;
 }
 ul{
     list-style-type: none;
 }
 .my-footer {
     width: 100%;
-    background-color: #1e63be;
-    color: #E8E8E8;
+    background-color: #00414e;
+    color: #E5E4E2;
     text-align: center;
     height: 50px;
     font-family: Bison,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
@@ -71,7 +71,7 @@ ul{
     padding: 10px 0;
 }
 body{
-    background-color:#E8E8E8;
+    background-color:#E5E4E2;
 }
 .my-body{
     margin:40px 50px;
@@ -89,9 +89,11 @@ body{
 }
 .me h1{
     font-size: 25px;
+    color: #00414e;
 }
 .me h2{
     font-size: 20px;
+    color:#00414e;
 }
 .flex-containers {
     display: flex;
@@ -108,7 +110,7 @@ body{
     width: 100%;
 }
 .flex-container > div {
-    background-color: #E8E8E8;
+    background-color: #E5E4E2;
     width: 20%;
     text-align: left;
     line-height: 55px;
@@ -158,7 +160,7 @@ h3{
     border-bottom: 1px solid black;
     border-top: 1px solid black;
     padding: 20px 0;
-    color: #1e63be;
+    color: #00414e;
     font-weight: 900;
 }
 h3#skills-title{
@@ -192,13 +194,13 @@ h3#skills-title{
     border-radius: 50%;
     display: inline-block;
     height: 27px;
-    color: #1e63be;
+    color: #00414e;
     width: 28px;
     font-weight: 900;
     font-size: 14px;
     text-align: center;
     line-height: 24px;
-    background: #1e63be;
+    background: #00414e;
   }
   .my-exp ul li:before {
     position: absolute;
@@ -226,10 +228,22 @@ h3#skills-title{
   box-sizing: border-box;
 }
 #contact-us #fname {
-    margin-right: 20px;;
+    margin-right: 20px;
+  }
+  #contact-us #email {
+    margin-right: 20px;
   }
 #contact-us input[type=email] {
-    width: 100%;
+    width: 49%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+  #contact-us input[type=tel] {
+    width: 49%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
@@ -237,7 +251,6 @@ h3#skills-title{
     border-radius: 4px;
     box-sizing: border-box;
   }
-
   #contact-us textarea {
     width: 100%;
     padding: 12px 20px;
@@ -250,7 +263,7 @@ h3#skills-title{
 
 #contact-us input[type=submit] {
   width: 100%;
-  background-color: #1e63be;
+  background-color: #00414e;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -316,7 +329,6 @@ h3#skills-title{
         font-size: 15px;
     }
     .my-exp  ul li:after {
-
         left: 2px;
         height: 23px;
         width: 23px;
@@ -329,5 +341,8 @@ h3#skills-title{
     }
     .my-name, .my-job{
         margin:0 14px;
+    }
+    #summary{
+        text-align: left;
     }
 }

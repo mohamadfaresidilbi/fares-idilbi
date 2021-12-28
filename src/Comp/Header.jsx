@@ -1,6 +1,6 @@
 import React from "react";
 import files from './cv.pdf';
-import Note from "./Note";
+import Note from "./Body";
 
 function Header() {
     return (
@@ -11,7 +11,11 @@ function Header() {
                     
                     <p class="my-job"><b>Web Developer </b></p>
                 </div>
+                
                 <ul class="my-title">
+                    <li>
+
+                    </li>
                     <li><a href="#skills"><b>Skills</b></a></li>
                     <li><a href="#experience"><b>Experience</b></a></li>
                     <li><a href="#education"><b>Education</b></a></li>

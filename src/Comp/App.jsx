@@ -1,19 +1,18 @@
 import React from "react";
 import Header from "./Header";
 import Footer from "./Footer";
-import Note from "./Note";
+import Body from "./Body";
 
 function App() {
     return (
         <div>
             <Header />
 
-            <Note />
+            <Body />
 
             <Footer/>
         </div>
     );
 }
-
 
 export default App;
