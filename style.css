@@ -359,4 +359,7 @@ h3#skills-title{
         border-radius: 4px;
         box-sizing: border-box;
       }
+      .flex-containers{
+          margin-bottom: 0px;
+      }
 }
