@@ -362,4 +362,7 @@ h3#skills-title{
       .flex-containers{
           margin-bottom: 0px;
       }
+      .footer-content{
+          padding: 0 0;
+      }
 }
