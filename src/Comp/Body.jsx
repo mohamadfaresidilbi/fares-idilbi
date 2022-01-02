@@ -5,6 +5,7 @@ import Skills from "./Skills";
 import Experience from "./Experience";
 import Education from "./Education";
 import Volunteer from "./Volunteer";
+import Freelance from "./Freelance";
 
 function Body() {
 
@@ -21,6 +22,8 @@ function Body() {
             <Education />
 
             <Volunteer />
+
+            <Freelance />
 
             <Email />
 
