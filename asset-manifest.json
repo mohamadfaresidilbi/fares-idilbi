@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.js": "/myWebsite/static/js/main.e39e7481.chunk.js",
-    "main.js.map": "/myWebsite/static/js/main.e39e7481.chunk.js.map",
+    "main.js": "/myWebsite/static/js/main.ee44cc6a.chunk.js",
+    "main.js.map": "/myWebsite/static/js/main.ee44cc6a.chunk.js.map",
     "runtime-main.js": "/myWebsite/static/js/runtime-main.4b3a9e91.js",
     "runtime-main.js.map": "/myWebsite/static/js/runtime-main.4b3a9e91.js.map",
     "static/js/2.60b0e520.chunk.js": "/myWebsite/static/js/2.60b0e520.chunk.js",
     "static/js/2.60b0e520.chunk.js.map": "/myWebsite/static/js/2.60b0e520.chunk.js.map",
     "index.html": "/myWebsite/index.html",
     "static/js/2.60b0e520.chunk.js.LICENSE.txt": "/myWebsite/static/js/2.60b0e520.chunk.js.LICENSE.txt",
+    "static/media/AUBOutlook.5e6bcda4.jpeg": "/myWebsite/static/media/AUBOutlook.5e6bcda4.jpeg",
     "static/media/cv.8a75e806.pdf": "/myWebsite/static/media/cv.8a75e806.pdf",
-    "static/media/mee.f85a9cde.png": "/myWebsite/static/media/mee.f85a9cde.png"
+    "static/media/mee.f85a9cde.png": "/myWebsite/static/media/mee.f85a9cde.png",
+    "static/media/zakaAI.2542a7a8.jpeg": "/myWebsite/static/media/zakaAI.2542a7a8.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.4b3a9e91.js",
     "static/js/2.60b0e520.chunk.js",
-    "static/js/main.e39e7481.chunk.js"
+    "static/js/main.ee44cc6a.chunk.js"
   ]
 }
