@@ -19,11 +19,11 @@ function Body() {
             
             <Experience />
 
+            <Freelance />
+
             <Education />
 
             <Volunteer />
-
-            <Freelance />
 
             <Email />
 
