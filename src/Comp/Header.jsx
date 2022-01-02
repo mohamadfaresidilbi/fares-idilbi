@@ -18,6 +18,7 @@ function Header() {
                     </li>
                     <li><a href="#skills"><b>Skills</b></a></li>
                     <li><a href="#experience"><b>Experience</b></a></li>
+                    <li><a href="#freelance"><b>Freelancing</b></a></li>
                     <li><a href="#education"><b>Education</b></a></li>
                     <li><a href="#contact-us"><b>Contact Me</b></a></li>
                     <li><a href={files} target="_blank" download="Fares Idilbi - CV"><b>Download Resume</b></a></li>
