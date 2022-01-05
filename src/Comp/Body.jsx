@@ -6,6 +6,7 @@ import Experience from "./Experience";
 import Education from "./Education";
 import Volunteer from "./Volunteer";
 import Freelance from "./Freelance";
+import Media from "./Media";
 
 function Body() {
 
@@ -26,6 +27,8 @@ function Body() {
             <Volunteer />
 
             <Email />
+
+            <Media />
 
         </body>
     );
