@@ -15,7 +15,6 @@ function Experience() {
                         </li>
                         <li>
                             <p id="title-pad"><u>Web Developer</u></p>                        
-                            <p>Presentail S.A.L. | Part-time | <a href="https://presentail.com/" target="_blank">https://presentail.com/</a> | <span id="greys">January 20, 2022 - Present</span></p>
                             <p>Presentail S.A.L. | Full-time | <a href="https://presentail.com/" target="_blank">https://presentail.com/</a> | <span id="greys">September 20, 2021 - January 20, 2022</span></p></li>
                         <li>
                             <p id="title-pad"><u>Web Developer</u></p>
