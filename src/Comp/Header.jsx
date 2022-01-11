@@ -1,6 +1,5 @@
 import React from "react";
 import files from './cv.pdf';
-import Note from "./Body";
 
 function Header() {
     return (
