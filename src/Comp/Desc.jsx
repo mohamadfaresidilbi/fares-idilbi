@@ -13,7 +13,7 @@ function Desc() {
                     <h1>Mhd Fares Idilbi</h1>
                     <h2>Web Developer</h2>
                     <p id="summary">
-                        A Computer Science graduate from The American University of Beirut. I am currently working as a Full Stack Web Developer at Presentail.
+                        A Computer Science graduate from The American University of Beirut. I am currently working as a Full Stack Web Developer at Loolia Closet.
                     </p>
                 </div>
                 <div class="social">

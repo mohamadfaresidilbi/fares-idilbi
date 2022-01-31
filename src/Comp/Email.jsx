@@ -6,6 +6,9 @@ function Email() {
 
             <section id="contact-us">
                 <h3>Contact Me</h3>
+                <p class="business">
+                    For Business Inquiries feel free to contact me.
+                </p>
                 <div>
                     <form action="mailto:mhdfaresidilbi@gmail.com" method="POST" enctype="text/plain">            
                         <input type="text" id="fname" name="First name " placeholder="First Name *" required="required"/>
