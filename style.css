@@ -15,6 +15,12 @@ nav{
     color: #E5E4E2;
     font-weight: 900;
 }
+.business{
+    text-align: center;
+    padding: 0 0 20px 0;
+    font-size: 18px;
+    font-weight: 900;;
+}
 .my-job{
     font-size:15px;
     margin: 0 20px;
