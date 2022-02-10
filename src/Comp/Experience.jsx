@@ -11,11 +11,11 @@ function Experience() {
                     <ul>
                         <li>
                             <p id="title-pad"><u>Web Developer</u></p>
-                            <p>Loolia Closet | Full-time | <a href="https://looliacloset.com/" target="_blank">https://looliacloset.com/</a> | <span id="greys">January 17, 2021 - Present</span></p>
+                            <p>Loolia Closet | Full-time | <a href="https://looliacloset.com/" target="_blank">https://looliacloset.com/</a> | <span id="greys">January 10, 2021 - Present</span></p>
                         </li>
                         <li>
                             <p id="title-pad"><u>Web Developer</u></p>                        
-                            <p>Presentail S.A.L. | Full-time | <a href="https://presentail.com/" target="_blank">https://presentail.com/</a> | <span id="greys">September 20, 2021 - January 20, 2022</span></p></li>
+                            <p>Presentail S.A.L. | Full-time | <a href="https://presentail.com/" target="_blank">https://presentail.com/</a> | <span id="greys">September 20, 2021 - January 10, 2022</span></p></li>
                         <li>
                             <p id="title-pad"><u>Web Developer</u></p>
                             <p>Beirut AI | Part-time | <a href="https://beirutai.org/" target="_blank">https://beirutai.org/</a> | <span id="greys">January 1, 2021 - December 31, 2021</span> </p>
