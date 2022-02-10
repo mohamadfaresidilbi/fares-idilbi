@@ -88,7 +88,10 @@ body{
 .me img{
     height:180px;
     width:180px;
+    background-color:#E5E4E2;
     border-radius: 90px;
+    border: 4px solid#00414e;
+    ;
 }
 .me .summary{
     text-align: left;
