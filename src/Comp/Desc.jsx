@@ -1,5 +1,5 @@
 import React from "react";
-import download from './mee.png';
+import download from './meenobg.png';
 import files from './cv.pdf';
 
 function Desc() {
