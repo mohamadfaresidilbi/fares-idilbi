@@ -7,11 +7,6 @@ function Media() {
 
     return (
         <div class="cont">
-            <a href="https://www.instagram.com/faresidilbi/" target="_blank">
-                <p>
-                    <img class="insta" src={insta} alt="Logo" />
-                </p>
-            </a>
             <a href="https://api.whatsapp.com/send?phone=96176732957" target="_blank">
                 <p>
                     <img class="whatsapp" src={whatsapp} alt="Logo" />
