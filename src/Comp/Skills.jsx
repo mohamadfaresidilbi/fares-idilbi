@@ -1,7 +1,7 @@
 import React from "react";
 
 function Skills() {
-
+    
     return (
     
             <section class="my-skills" id="skills">

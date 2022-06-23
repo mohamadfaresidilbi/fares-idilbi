@@ -11,7 +11,7 @@ function Experience() {
                     <ul>
                         <li>
                             <p id="title-pad"><u>Web Developer</u></p>
-                            <p>Loolia Closet | Full-time | <a href="https://looliacloset.com/" target="_blank">https://looliacloset.com/</a> | <span id="greys">January 10, 2021 - Present</span></p>
+                            <p>Loolia Closet | Full-time | <a href="https://ounousareviews.com/" target="_blank">https://ounousareviews.com/</a> | <span id="greys">January 10, 2021 - Present</span></p>
                         </li>
                         <li>
                             <p id="title-pad"><u>Web Developer</u></p>                        
