@@ -1,5 +1,5 @@
 import React from "react";
-import files from './cv.pdf';
+import files from './cvNew.pdf';
 
 function Header() {
     return (

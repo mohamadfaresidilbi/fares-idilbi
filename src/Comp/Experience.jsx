@@ -11,7 +11,14 @@ function Experience() {
                     <ul>
                         <li>
                             <p id="title-pad"><u>Web Developer</u></p>
-                            <p>Loolia Closet | Full-time | <a href="https://ounousareviews.com/" target="_blank">https://ounousareviews.com/</a> | <span id="greys">January 10, 2021 - Present</span></p>
+                            <p>Ounousa Reviews | Full-time | <a href="https://ounousareviews.com/" target="_blank">https://ounousareviews.com/</a> | <span id="greys">January 10, 2022 - Present</span></p>
+                            <p>Loolia Closet | Full-time | <a href="https://looliacloset.com/" target="_blank">https://looliacloset.com/</a> | <span id="greys">January 10, 2022 - Present</span></p>
+                            <p>Sohati Care | Full-time | <a href="https://sohaticare.com/" target="_blank">https://sohaticare.com/</a> | <span id="greys">January 10, 2022 - Present</span></p>
+                            <p>Ounousa | Full-time | <a href="https://ounousa.com/" target="_blank">https://ounousa.com/</a> | <span id="greys">January 10, 2022 - Present</span></p>
+                        </li>
+                        <li>
+                            <p id="title-pad"><u>Web Developer</u></p>
+                            <p>WebVue | Freelance | <a href="https://webvuelb.com/" target="_blank">https://webvuelb.com/</a> | <span id="greys">January 10, 2022 - Present</span></p>
                         </li>
                         <li>
                             <p id="title-pad"><u>Web Developer</u></p>                        

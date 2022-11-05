@@ -10,30 +10,30 @@ function Skills() {
                     <div class="colone"> 
                         <ul>
                             <li class="title"><u>Web Development</u></li>
-                            <li>JavaScript</li>
+                            <li>JavaScript / Jquery</li>
                             <li>Wordpress / Woocommerce</li>
+                            <li>Shopify</li>
                             <li>HTML5</li>
                             <li>CSS / SASS</li>
                             <li>Bootstrap</li>
                             <li>PHP</li>
-                            <li>Jquery</li>
+                            <li>Rest APIs</li>
                         </ul>
                     </div>
                     <div class="coltwo"> 
                         <ul>
                                 <li class="title"><u>Programming Languages</u></li>
-                                <li>JavaScript</li>
+                                <li>JavaScript / Jquery</li>
+                                <li>PHP</li>
                                 <li>C++</li>
                                 <li>Python</li>
-                                <li>PHP</li>
                         </ul>
                     </div>
                     <div class="colthree"> 
                         <ul>
                             <li class="title"><u>Frameworks / Platforms</u></li>
-                            <li>React.js</li>
                             <li>Wordpress / Woocommerce</li>
-                            <li>Laravel</li>
+                            <li>Shopify</li>
                         </ul>
                     </div>
                     <div class="colfour"> 
