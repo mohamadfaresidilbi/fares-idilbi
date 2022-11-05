@@ -18,7 +18,7 @@ function Experience() {
                         </li>
                         <li>
                             <p id="title-pad"><u>Web Developer</u></p>
-                            <p>WebVue | Freelance | <a href="https://webvuelb.com/" target="_blank">https://webvuelb.com/</a> | <span id="greys">January 10, 2022 - Present</span></p>
+                            <p>WebVue | Freelance | <a href="https://webvuelb.com/" target="_blank">https://webvuelb.com/</a> | <span id="greys">October 20, 2022 - Present</span></p>
                         </li>
                         <li>
                             <p id="title-pad"><u>Web Developer</u></p>                        
