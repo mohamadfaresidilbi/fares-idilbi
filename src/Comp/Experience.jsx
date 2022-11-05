@@ -20,7 +20,7 @@ function Experience() {
                             <p id="title-pad"><u>Web Developer</u></p>
                             <p>WebVue | Freelance | <a href="https://webvuelb.com/" target="_blank">https://webvuelb.com/</a> | <span id="greys">October 20, 2022 - Present</span></p>
                         </li>
-                        <li>
+                        <li> 
                             <p id="title-pad"><u>Web Developer</u></p>                        
                             <p>Presentail S.A.L. | Full-time | <a href="https://presentail.com/" target="_blank">https://presentail.com/</a> | <span id="greys">September 20, 2021 - January 10, 2022</span></p></li>
                         <li>
