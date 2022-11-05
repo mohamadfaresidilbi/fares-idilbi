@@ -1,6 +1,6 @@
 import React from "react";
 import download from './newbg.jpg';
-import files from './cv.pdf';
+import files from './cvnew.pdf';
 
 function Desc() {
 
